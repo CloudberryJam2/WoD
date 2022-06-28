@@ -1,7 +1,8 @@
 # Credits
 
 ![Title Screen](00wod_title_screen.png)
-Project Lead: Lakka
+
+Project Lead: **Lakka**
 
 ### Tech
 
