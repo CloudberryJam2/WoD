@@ -5,6 +5,7 @@
 Project Lead: **Lakka**
 
 ### Tech
+---
 
 FEBuilder and Patch Compatibility, Expand Sound Room, Unique Music Per Unit, CG Fade Glitch, Save File Colors, DismountEX, Remove Item / Send to Supply (Event), Silent give gold/items (Event), Multiple Escape Arrows, Supply Access by Chapter, Thracia Escape, Set Flag on Enemy Escape, Set/Get Unit Status (Event), Set Trap (Event) - **7743**
 
@@ -12,18 +13,18 @@ Skillsystems, Map Danger Zone, Actions after Talk, drumfix - **circleseverywhere
 
 Chapter Titles to Text - **7743, circleseverywhere**  
 HP Bars - **circleseverywhere, Zane, Tequila**  
+ExModularSave, Skip Difficulty Select, Leader AI Fix, Skip World Map, Unit Action Rework - **stanh**  
 01command hack, 48command hack, Anti Huffman, CSA MagicSystem,  - **Hextator**  
 Emotion Bubble - **7743, Kenpuku**  
 Fix Weak Promoted Enemies- **Gryz**  
 Force Boss Animation - **aera**  
 MMB - **Scraiza, Zane, Pandan**  
 Give Exp (Event) - **aera, Vesly**  
-ExModularSave, Skip Difficulty Select, Leader AI Fix, Skip World Map, Unit Action Rework - **stanh**  
 Melee / Ranged Spells - **Kao**  
 Battle stats with anims off, fix lz77 decompress, Show Heal Amount - **Tequila**  
 No Level Reset on Promotion - **Vesly, 7743**  
 NarrowFont - **Scraiza**  
-Nimap2 - **Alusq**  
+Native Instrument Map 2 - **Alusq**  
 16 Tracks 12 Sounds - **Agro, Brendor**  
 Fix dodge to front glitch - **snakey1**  
 Improved Song Mixer - **ipatix**  
@@ -40,6 +41,7 @@ Deserter - **Alusq**
 Fighter - **MK404**  
 Fighter (F) - **Pikmin1211, Maiser6, MK404**  
 Hoplite - **Nuramon**  
+Horseman - **Leo Link**
 Hunter - **Leo Link, Spud, Meat of Justice**  
 Lance Knight / Sword Knight (M) - **Team Salvaged**  
 Mage Knight (Sword) - **Aruka, Kenpuhu**  
@@ -48,10 +50,12 @@ Myrmidon (M/F) - **Leo Link**
 Mage (Hatless) - **GabrielKnight**  
 Paladin (F) -  **Team Salvaged, flasuban, The Big Dededester**  
 Paladin (M) - **Team Salvaged**  
+Paladin (U/Helmet) - **Team Salvaged, MeteorSR23**  
 Pegasus Knight - **flasuban**  
 Sage (FE6 Style) - **IS, Shin19**  
 Soldier - **flasuban, Nuramon, Leo Link**  
 Thief - **Skitty, GabrielKnight (Pikmin1211, Maiser6 Repalette)**  
+Troubadour (Swords) - **Teraspark**   
 War Sage - **St. Jack**  
 Warrior (F) - **Temp**  
 
@@ -90,11 +94,11 @@ Thoron - **BwdYeti**
 
 ### Portraits
 ---
-Amalia, Anita, Heta, Hugo, Jaakko, Julius, Hallon, Kalle, Kristian, Lea, Sanna - **LaurentLacroix**  
-Asta, Bjorn, Elias, Helmi, Maj, Johannes, Ingeborg, Roni, Kaija, Taru  - **XVI**  
+Antero, Amalia, Anita, Heta, Hugo, Jaakko, Julius, Hallon, Kalle, Kristian, Lea, Sanna - **LaurentLacroix**  
+Asta, Elias, Helmi, Maj, Johannes, Ingeborg, Roni, Kaija, Taru  - **XVI**  
 Armas, Matias, Raisa, Sonja, Tobias - **flasuban**  
-Linnea, Mira, Pilvi - **Levin64**  
 Kalevi, Monica, Sini, Viktor - **CapibaraInSpace**  
+Linnea, Mira, Pilvi - **Levin64**   
 Björn, Oliver - **ZoramineFae**  
 Pentti, Risto - **RandomWizard**  
 Aleksi - **Alusq**  
