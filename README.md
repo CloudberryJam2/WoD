@@ -112,21 +112,21 @@ Ulla - **GaryTop**
 
 ### Weapon/Item/Skill Icons
 ---
-Earth Sword, Greatlance, Levis Lancea, Main Droite, Occult Scroll, Piercing Dagger, Stiletto - **Lisandra Brave**
-Estoc, Myrskytuuli, Pian Dao, Scimitar, Thoron, Ukonvasara - **LordGlenn**
-Energy Drop, Silencer, Throwing Knife - **Ereshkigal**
-Main Gauche, Sabre - **Peerless**
-Cutlass - **Zane**
-Dire Thunder - **OriharaSaki**
-Master Seal - **Purple**
-Spirit Dust - **GabrielKnight**
-Scissor Axe - **Zane**
-Kalis - **SacredStones**
-Wing Spear - **Seal, SacredWar**
-Wooden Bow - **snakey1**
-Slim Sword, Wo Dao - **2WB**
-Levin Sword - **Zelix**
-Seafarer Icon - **ZessDynamite**
+Earth Sword, Greatlance, Levis Lancea, Main Droite, Occult Scroll, Piercing Dagger, Stiletto - **Lisandra Brave**  
+Estoc, Myrskytuuli, Pian Dao, Scimitar, Thoron, Ukonvasara - **LordGlenn**  
+Energy Drop, Silencer, Throwing Knife - **Ereshkigal**  
+Main Gauche, Sabre - **Peerless**  
+Cutlass - **Zane**  
+Dire Thunder - **OriharaSaki**  
+Master Seal - **Purple**  
+Spirit Dust - **GabrielKnight**  
+Scissor Axe - **Zane**  
+Kalis - **SacredStones**  
+Wing Spear - **Seal, SacredWar**  
+Wooden Bow - **snakey1**  
+Slim Sword, Wo Dao - **2WB**  
+Levin Sword - **Zelix**  
+Seafarer Icon - **ZessDynamite**  
 
 ### Class Cards
 ---
