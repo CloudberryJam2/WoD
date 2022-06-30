@@ -126,7 +126,7 @@ Wing Spear - **Seal, SacredWar**
 Wooden Bow - **snakey1**  
 Slim Sword, Wo Dao - **2WB**  
 Levin Sword - **Zelix**  
-Seafarer Icon - **ZessDynamite**  
+Seafarer Icon - **ZessDynamite, rainlash**  
 
 ### Class Cards
 ---
