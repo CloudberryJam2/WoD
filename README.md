@@ -91,8 +91,9 @@ Warrior (F) - **FEGirls**
 
 ### Spell Animations
 ---
+Bolganone - **Mikey Seregon**
 Myrskytuuli - **Golden Sun, Mikey Seregon**  
-Thoron - **BwdYeti**  
+Thoron - **Arch**  
 
 ### Portraits
 ---
