@@ -9,7 +9,7 @@ Project Lead: **Lakka**
 
 FEBuilder and Patch Compatibility, Expand Sound Room, Unique Music Per Unit, CG Fade Glitch, Save File Colors, DismountEX, Remove Item / Send to Supply (Event), Silent give gold/items (Event), Multiple Escape Arrows, Supply Access by Chapter, Thracia Escape, Set Flag on Enemy Escape, Set/Get Unit Status (Event), Set Trap (Event) - **7743**
 
-FE8 Skillsystem - **circleseverywhere, Sme, Pikmin1211, snakey1, Contro, Vesly, hypergammaspaces, Huichelaar, Pawkkie, Teraspark, stanh, MintX, Zeta-C, BGreenham, Leonarth, Shidesu, Darrman, Tequika, SD9k, crazycolorz**
+FE8 Skillsystem - **circleseverywhere, Sme, Pikmin1211, snakey1, Contro, Vesly, hypergammaspaces, Huichelaar, Pawkkie, Teraspark, stanh, MintX, Zeta-C, BGreenham, Leonarth, Shidesu, Runa, Darrman, Tequila, SD9k, crazycolorz, Kirb, primefusion**
 
 Map Danger Zone, Actions after Talk, drumfix - **circleseverywhere**
 
@@ -109,6 +109,24 @@ Lumi - **Scraiza**
 Niilo - **Peerless**  
 Sakari - **Lenh**  
 Ulla - **GaryTop**  
+
+### Weapon/Item/Skill Icons
+---
+Earth Sword, Greatlance, Levis Lancea, Main Droite, Occult Scroll, Piercing Dagger, Stiletto - **Lisandra Brave**
+Estoc, Myrskytuuli, Pian Dao, Scimitar, Thoron, Ukonvasara - **LordGlenn**
+Energy Drop, Silencer, Throwing Knife - **Ereshkigal**
+Main Gauche, Sabre - **Peerless**
+Cutlass - **Zane**
+Dire Thunder - **OriharaSaki**
+Master Seal - **Purple**
+Spirit Dust - **GabrielKnight**
+Scissor Axe - **Zane**
+Kalis - **SacredStones**
+Wing Spear - **Seal, SacredWar**
+Wooden Bow - **snakey1**
+Slim Sword, Wo Dao - **2WB**
+Levin Sword - **Zelix**
+Seafarer Icon - **ZessDynamite**
 
 ### Class Cards
 ---
