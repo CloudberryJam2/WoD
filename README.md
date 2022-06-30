@@ -9,7 +9,9 @@ Project Lead: **Lakka**
 
 FEBuilder and Patch Compatibility, Expand Sound Room, Unique Music Per Unit, CG Fade Glitch, Save File Colors, DismountEX, Remove Item / Send to Supply (Event), Silent give gold/items (Event), Multiple Escape Arrows, Supply Access by Chapter, Thracia Escape, Set Flag on Enemy Escape, Set/Get Unit Status (Event), Set Trap (Event) - **7743**
 
-Skillsystems, Map Danger Zone, Actions after Talk, drumfix - **circleseverywhere**
+FE8 Skillsystem - **circleseverywhere, Sme, Pikmin1211, snakey1, Contro, Vesly, hypergammaspaces, Huichelaar, Pawkkie, Teraspark, stanh, MintX, Zeta-C, BGreenham, Leonarth, Shidesu, Darrman, Tequika, SD9k, crazycolorz**
+
+Map Danger Zone, Actions after Talk, drumfix - **circleseverywhere**
 
 Chapter Titles to Text - **7743, circleseverywhere**  
 HP Bars - **circleseverywhere, Zane, Tequila**  
