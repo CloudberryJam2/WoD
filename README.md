@@ -101,18 +101,20 @@ Thoron - **Arch**
 ### Portraits
 ---
 Antero, Amalia, Anita, Heta, Hugo, Jaakko, Julius, Hallon, Kalle, Kristian, Lea, Sanna - **LaurentLacroix**  
-Asta, Elias, Helmi, Maj, Johannes, Ingeborg, Roni, Kaija, Taru  - **XVI**  
+Asta, Elias, Maj, Johannes, Ingeborg, Roni, Kaija, Taru  - **XVI**  
 Armas, Matias, Raisa, Sonja, Tobias - **flasuban**  
-Kalevi, Monica, Sini, Viktor - **CapibaraInSpace**  
+Kalevi, Marika, Monica, Niklas, Sini, Viktor - **CapibaraInSpace**  
 Linnea, Mira, Pilvi - **Levin64**   
 Björn, Oliver - **ZoramineFae**  
 Pentti, Risto - **RandomWizard**  
+Helmi, Janne, Marti - **SSHX**  
 Aleksi - **Alusq**  
 Lennart - **GabrielKnight**  
 Lumi - **Scraiza**  
-Niilo - **Peerless**  
+Aki, Niilo - **Peerless**  
 Sakari - **Lenh**  
 Ulla - **GaryTop**  
+Kiti - **MeatofJustice**  
 
 ### Weapon/Item/Skill Icons
 ---
