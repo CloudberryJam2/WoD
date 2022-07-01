@@ -9,9 +9,9 @@ Project Lead: **Lakka**
 
 FEBuilder and Patch Compatibility, Expand Sound Room, Unique Music Per Unit, CG Fade Glitch, Save File Colors, DismountEX, Remove Item / Send to Supply (Event), Silent give gold/items (Event), Multiple Escape Arrows, Supply Access by Chapter, Thracia Escape, Set Flag on Enemy Escape, Set/Get Unit Status (Event), Set Trap (Event) - **7743**
 
-FE8 Skillsystem - **circleseverywhere, Sme, Pikmin1211, snakey1, Contro, Vesly, hypergammaspaces, Huichelaar, Pawkkie, Teraspark, stanh, MintX, Zeta-C, BGreenham, Leonarth, Shidesu, Runa, Darrman, Tequila, SD9k, crazycolorz, Kirb, primefusion**
+FE8 Skillsystem - **circleseverywhere, Sme, Pikmin1211, snakey1, Contro, Vesly, hypergammaspaces, Huichelaar, Pawkkie, Teraspark, stanh, MintX, Zeta-C, BGreenham, Leonarth, Shidesu, Runa, Darrman, Tequila, SD9k, crazycolorz, Kirb, Rossendale, Kao, primefusion**  
 
-Map Danger Zone, Actions after Talk, drumfix - **circleseverywhere**
+Map Danger Zone, Actions after Talk, drumfix, Remove New Game Text/Intro - **circleseverywhere**  
 
 Chapter Titles to Text - **7743, circleseverywhere**  
 HP Bars - **circleseverywhere, Zane, Tequila**  
@@ -23,14 +23,17 @@ Force Boss Animation - **aera**
 MMB - **Scraiza, Zane, Pandan**  
 Give Exp (Event) - **aera, Vesly**  
 Melee / Ranged Spells - **Kao**  
-Battle stats with anims off, fix lz77 decompress, Show Heal Amount - **Tequila**  
+Battle stats with anims off, fix lz77 decompress, Show Heal Amount, Unlimited S ranks - **Tequila**  
+Exp formula mode coefficient fix, Autocursor fix - **Vennobennu**  
 No Level Reset on Promotion - **Vesly, 7743**  
 NarrowFont - **Scraiza**  
 Native Instrument Map 2 - **Alusq**  
 16 Tracks 12 Sounds - **Agro, Brendor**  
 Fix dodge to front glitch - **snakey1**  
 Improved Song Mixer - **ipatix**  
+Enable Faster Enemy Movement with A - **Gryz**  
 Remove Enemy Control Glitch - **Brendor**  
+DSFE Avoid - **GratedShtick**  
 
 ### Battle Animations
 ---
