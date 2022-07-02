@@ -100,21 +100,23 @@ Thoron - **Arch**
 
 ### Portraits
 ---
-Antero, Amalia, Anita, Heta, Hugo, Jaakko, Julius, Hallon, Kalle, Kristian, Lea, Sanna - **LaurentLacroix**  
-Asta, Elias, Maj, Johannes, Ingeborg, Roni, Kaija, Taru  - **XVI**  
-Armas, Matias, Raisa, Sonja, Tobias - **flasuban**  
+Antero, Amalia, Anita, Heta, Hugo, Jaakko, Joret, Julius, Hallon, Kalle, Kristian, Lea, Pirate Bosses (Ch. 13), Sanna - **LaurentLacroix**  
+Anton, Asta, Elias, Maj, Johannes, Ingeborg, Roni, Kaija, Taru  - **XVI**  
 Kalevi, Marika, Monica, Niklas, Sini, Viktor - **CapibaraInSpace**  
-Linnea, Mira, Pilvi - **Levin64**   
+Armas, Matias, Raisa, Sonja, Tobias - **flasuban**  
+Linnea, Mira, Niko, Pilvi - **Levin64**   
+Helmi, Janne, Marti - **SSHX**  
 Björn, Oliver - **ZoramineFae**  
 Pentti, Risto - **RandomWizard**  
-Helmi, Janne, Marti - **SSHX**  
+Aki, Niilo - **Peerless**  
 Aleksi - **Alusq**  
+Kiti - **MeatofJustice**  
 Lennart - **GabrielKnight**  
 Lumi - **Scraiza**  
-Aki, Niilo - **Peerless**  
 Sakari - **Lenh**  
+Silvia - **knabepicer**  
 Ulla - **GaryTop**  
-Kiti - **MeatofJustice**  
+
 
 ### Weapon/Item/Skill Icons
 ---
@@ -122,6 +124,7 @@ Earth Sword, Greatlance, Levis Lancea, Main Droite, Occult Scroll, Piercing Dagg
 Estoc, Myrskytuuli, Pian Dao, Scimitar, Thoron, Ukonvasara - **LordGlenn**  
 Energy Drop, Silencer, Throwing Knife - **Ereshkigal**  
 Main Gauche, Sabre - **Peerless**  
+Slim Sword, Wo Dao - **2WB**  
 Cutlass - **Zane**  
 Dire Thunder - **OriharaSaki**  
 Master Seal - **Purple**  
@@ -130,7 +133,6 @@ Scissor Axe - **Zane**
 Kalis - **SacredStones**  
 Wing Spear - **Seal, SacredWar**  
 Wooden Bow - **snakey1**  
-Slim Sword, Wo Dao - **2WB**  
 Levin Sword - **Zelix**  
 Seafarer Icon - **ZessDynamite, rainlash**  
 
