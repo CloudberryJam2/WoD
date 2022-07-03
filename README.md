@@ -43,6 +43,7 @@ Baron / General - **TBA, DerTheVaporeon, Nuramon**
 Bow Armor - **Team Salvaged**  
 Brigand - **flasuban**  
 Deserter - **Alusq**  
+Dismounted Knight - **DerTheVaporeon, Pikmin1211**  
 Fighter - **MK404**  
 Fighter (F) - **Pikmin1211, Maiser6, MK404**  
 Hoplite - **Nuramon**  
