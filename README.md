@@ -101,9 +101,9 @@ Thoron - **Arch**
 
 ### Portraits
 ---
-Antero, Amalia, Anita, Heta, Hugo, Jaakko, Joret, Julius, Hallon, Kalle, Kristian, Lea, Pirate Bosses (Ch. 13), Sanna - **LaurentLacroix**  
+Antero, Amalia, Heta, Hugo, Jaakko, Joret, Julius, Hallon, Kalle, Kristian, Lea, Pirate Bosses (Ch. 13), Sanna - **LaurentLacroix**  
 Anton, Asta, Elias, Maj, Johannes, Ingeborg, Roni, Kaija, Taru  - **XVI**  
-Kalevi, Marika, Monica, Niklas, Sini, Viktor - **CapibaraInSpace**  
+Anita, Kalevi, Marika, Monica, Niklas, Sini, Viktor - **CapibaraInSpace**  
 Armas, Matias, Raisa, Sonja, Tobias - **flasuban**  
 Linnea, Mira, Niko, Pilvi - **Levin64**   
 Helmi, Janne, Marti - **SSHX**  
