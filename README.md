@@ -62,7 +62,7 @@ Sage (FE6 Style) - **IS, Shin19**
 Soldier - **flasuban, Nuramon, Leo Link**  
 Thief - **Skitty, GabrielKnight (Pikmin1211, Maiser6 Repalette)**  
 Troubadour (Swords) - **Teraspark**   
-Vanguard - **Eldritch Abomination**  
+Vanguard - **Nuramon**  
 War Sage - **St. Jack**  
 Warrior (F) - **Temp**  
 
@@ -91,6 +91,7 @@ Soldier - **flasuban**
 Supply Crates - **Primefusion**  
 Sword Knight (F) - **flasuban**  
 Troubadour - **Pimin1211, Maiser6, TBA**  
+Vanguard - **Nuramon**  
 War Sage (F) - **Smug Mug, Unknown**  
 Warrior (F) - **FEGirls**  
 
