@@ -62,6 +62,7 @@ Sage (FE6 Style) - **IS, Shin19**
 Soldier - **flasuban, Nuramon, Leo Link**  
 Thief - **Skitty, GabrielKnight (Pikmin1211, Maiser6 Repalette)**  
 Troubadour (Swords) - **Teraspark**   
+Vanguard - **Eldritch Abomination**  
 War Sage - **St. Jack**  
 Warrior (F) - **Temp**  
 
