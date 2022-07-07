@@ -47,7 +47,7 @@ Dismounted Knight - **DerTheVaporeon, Pikmin1211**
 Fighter - **MK404**  
 Fighter (F) - **Pikmin1211, Maiser6, MK404**  
 Hoplite - **Nuramon**  
-Horseman - **Leo Link**
+Horseman - **Leo Link**  
 Hunter - **Leo Link, Spud, Meat of Justice**  
 Lance Knight / Sword Knight (M) - **Team Salvaged**  
 Mage Knight (Sword) - **Aruka, Kenpuhu**  
