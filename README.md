@@ -98,6 +98,7 @@ Warrior (F) - **FEGirls**
 ### Spell Animations
 ---
 Bolganone - **Mikey Seregon**  
+Dire Thunder - **Orihara Saki**  
 Myrskytuuli - **Golden Sun, Mikey Seregon**  
 Thoron - **Arch**  
 
