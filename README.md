@@ -110,13 +110,14 @@ Anita, Kalevi, Marika, Monica, Niklas, Sini, Viktor - **CapibaraInSpace**
 Armas, Matias, Raisa, Sonja, Tobias - **flasuban**  
 Linnea, Mira, Niko, Pilvi - **Levin64**   
 Helmi, Janne, Marti - **SSHX**  
+Pentti, Risto, Veikka - **RandomWizard**  
 Björn, Oliver - **ZoramineFae**  
-Pentti, Risto - **RandomWizard**  
 Aki, Niilo - **Peerless**  
 Aleksi - **Alusq**  
 Kiti - **MeatofJustice**  
 Lennart - **GabrielKnight**  
 Lumi - **Scraiza**  
+Minna - **Citrus**  
 Sakari - **Lenh**  
 Silvia - **knabepicer**  
 Ulla - **GaryTop**  
