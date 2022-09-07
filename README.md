@@ -125,7 +125,7 @@ Ulla - **GaryTop**
 
 ### Weapon/Item/Skill Icons
 ---
-Earth Sword, Greatlance, Levis Lancea, Main Droite, Occult Scroll, Piercing Dagger, Stiletto - **Lisandra Brave**  
+Eagle Bow, Earth Sword, Greatlance, Levis Lancea, Main Droite, Occult Scroll, Piercing Dagger, Stiletto - **Lisandra Brave**  
 Estoc, Myrskytuuli, Pian Dao, Scimitar, Thoron, Ukonvasara - **LordGlenn**  
 Energy Drop, Silencer, Throwing Knife - **Ereshkigal**  
 Main Gauche, Sabre - **Peerless**  
