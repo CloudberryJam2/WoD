@@ -125,7 +125,7 @@ Ulla - **GaryTop**
 
 ### Weapon/Item/Skill Icons
 ---
-Eagle Bow, Earth Sword, Greatlance, Levis Lancea, Main Droite, Occult Scroll, Piercing Dagger, Stiletto - **Lisandra Brave**  
+Eagle Bow, Earth Sword, Greatlance, Levis Lancea, Main Droite, Occult Scroll, Piercing Dagger, Rapier, Stiletto - **Lisandra Brave**  
 Estoc, Myrskytuuli, Pian Dao, Scimitar, Thoron, Ukonvasara - **LordGlenn**  
 Energy Drop, Silencer, Throwing Knife - **Ereshkigal**  
 Main Gauche, Sabre - **Peerless**  
@@ -159,7 +159,7 @@ Updated Village - **ZoramineFae, Venno, N426**
 ---
 Battle with Thimale, Boss (FE2), Cassandra, Cavern of Splendor, Fillmore, Forbidden Forest, Endless Battle, Heaven's Rock Seat, Knights of Razelia, Thunder, Trisection, Wall of Defense - **Alusq**
 
-Boss II (Chrono Trigger), Boss Battle (Mystery Dungeon), Chapel Halls, A Knight's Oath, Mt. Thunder, Rise to the Challenge - **RandomWizard**
+Boss II (Chrono Trigger), Boss Battle (Mystery Dungeon), Chapel Halls, A Knight's Oath, Mt. Thunder, Rise to the Challenge, Sky Tower - **RandomWizard**
 
 
 Battle in the Abandoned Church, Gordon Sortie, Leaps and Bounds, Onset, Stronger Monsters, The Time to Act, Vs Arvis - **Saxor the Nobody**
